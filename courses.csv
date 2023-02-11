@@ -1,0 +1,100 @@
+name	code	date	place	bloat1	bloat2	bloat3	group	bloat5	bloat6	bloat7	teacher	disabled
+Numerikus m˜dszerek Gy	IP-18cNM1G	Cs˜t˜rt˜k 12:00-14:00	D˜li T˜mb 1-820 Haj˜s Gy˜rgy terem	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	1	30	0	2	Kov˜cs P˜ter	true
+Numerikus m˜dszerek Gy	IP-18cNM1G	Cs˜t˜rt˜k 10:00-12:00	D˜li T˜mb 1-820 Haj˜s Gy˜rgy terem	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	2	30	0	2	Kov˜cs P˜ter	true
+Numerikus m˜dszerek Gy	IP-18cNM1G	Szerda 8:00-10:00	D˜li T˜mb 1-817 (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	3	30	0	2	D˜zsa Tam˜s G˜bor	true
+Numerikus m˜dszerek Gy	IP-18cNM1G	Szerda 10:00-12:00	D˜li T˜mb 1-817 (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	4	30	0	2	D˜zsa Tam˜s G˜bor	false
+Numerikus m˜dszerek Gy	IP-18cNM1G	P˜ntek 10:00-12:00	D˜li T˜mb 0-220 K˜rteszi Ferenc terem (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	5	30	0	2	Hiba Antal Dr.	false
+Numerikus m˜dszerek Gy	IP-18cNM1G	P˜ntek 12:00-14:00	D˜li T˜mb 0-220 K˜rteszi Ferenc terem (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	6	30	0	2	Hiba Antal Dr.	false
+Numerikus m˜dszerek Gy	IP-18cNM1G	H˜tfo 10:00-12:00	D˜li T˜mb 1-817 (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	7	30	0	2	Bogn˜r Gerg˜	false
+Numerikus m˜dszerek Gy	IP-18cNM1G	H˜tfo 12:00-14:00	D˜li T˜mb 1-820 Haj˜s Gy˜rgy terem	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	8	30	0	2	Bogn˜r Gerg˜	false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	H˜tfo 12:00-14:00	D˜li T˜mb 00-412 (PC 6)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	1	15	2	2	Szendrei Rudolf	true
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	Cs˜t˜rt˜k 12:00-14:00	D˜li T˜mb 2-520 (Mesters˜ges Intelligencia labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	10	15	2	2	Bakay ˜rp˜d	false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	P˜ntek 10:00-12:00	D˜li T˜mb 2-108 (PC5)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	11	15	2	2		false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	P˜ntek 12:00-14:00	D˜li T˜mb 2-108 (PC5)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	12	15	2	2		false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	P˜ntek 14:00-16:00	D˜li T˜mb 00-411 (PC 7)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	13	15	2	2		false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	Cs˜t˜rt˜k 14:00-16:00	D˜li T˜mb 00-410 (PC 1)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	14	15	2	2		false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	H˜tfo 10:00-12:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	2	15	2	2	Szendrei Rudolf	true
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	Cs˜t˜rt˜k 12:00-14:00	D˜li T˜mb 2-218 (komp. alg.)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	3	15	2	2	Szendrei Rudolf	true
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	H˜tfo 14:00-16:00	D˜li T˜mb 2-520 (Mesters˜ges Intelligencia labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	4	15	2	2	Szendrei Rudolf	false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	Kedd 14:00-16:00	D˜li T˜mb 2-520 (Mesters˜ges Intelligencia labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	5	15	2	2	Szendrei Rudolf	false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	H˜tfo 8:00-10:00	D˜li T˜mb 2-709 (PC 9)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	6	15	2	2	Pint˜r Bal˜zs	false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	H˜tfo 10:00-12:00	D˜li T˜mb 2-709 (PC 9)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	7	15	2	2	Pint˜r Bal˜zs	false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	H˜tfo 12:00-14:00	D˜li T˜mb 2-709 (PC 9)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	8	15	2	2	Pint˜r Bal˜zs	false
+Szoftvertechnol˜gia Ea+GY (F)	IP-18cSZTEG	Szerda 8:00-10:00	D˜li T˜mb 2-520 (Mesters˜ges Intelligencia labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	9	15	2	2	Pint˜r Bal˜zs	false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Szerda 12:00-13:00	˜szaki T˜mb 7.15 (PC 11)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	1	20	1	1	Bakonyi Vikt˜ria Judit	true
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	P˜ntek 15:00-16:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	10	20	1	1		true
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Kedd 14:00-15:00	D˜li T˜mb 2-108 (PC5)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	11	20	1	1	Bende Imre	true
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Kedd 15:00-16:00	D˜li T˜mb 2-108 (PC5)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	12	20	1	1	Bende Imre	false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Szerda 10:00-11:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	13	20	1	1	Bakonyi Vikt˜ria Judit	false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Szerda 11:00-12:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	14	20	1	1	Bakonyi Vikt˜ria Judit	false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Cs˜t˜rt˜k 14:00-15:00	D˜li T˜mb 00-411 (PC 7)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	15	20	1	1	Klettner P˜ter	false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Cs˜t˜rt˜k 15:00-16:00	D˜li T˜mb 00-411 (PC 7)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	16	20	1	1	Klettner P˜ter	false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Kedd 12:00-13:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	17	20	1	1		false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Kedd 13:00-14:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	18	20	1	1		false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	H˜tfo 12:00-13:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	19	20	1	1		false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Szerda 13:00-14:00	˜szaki T˜mb 7.15 (PC 11)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	2	20	1	1	Bakonyi Vikt˜ria Judit	true
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	H˜tfo 13:00-14:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	20	20	1	1		false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Kedd 12:00-13:00	D˜li T˜mb 2-709 (PC 9)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	21	20	1	1	Klettner P˜ter	false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Kedd 13:00-14:00	D˜li T˜mb 2-709 (PC 9)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	22	20	1	1	Klettner P˜ter	false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Kedd 14:00-15:00	D˜li T˜mb 2-124 (Microsoft Labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	23	20	1	1	Klettner P˜ter	false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Kedd 15:00-16:00	D˜li T˜mb 2-124 (Microsoft Labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	24	20	1	1	Klettner P˜ter	false
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Cs˜t˜rt˜k 16:00-17:00	D˜li T˜mb 00-410 (PC 1)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	3	20	1	1	Klettner P˜ter	true
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	Cs˜t˜rt˜k 17:00-17:45	D˜li T˜mb 00-410 (PC 1)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	4	20	1	1	Klettner P˜ter	true
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	H˜tfo 15:00-16:00	D˜li T˜mb 2-108 (PC5)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	5	20	1	1	Ill˜s Zolt˜n	true
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	H˜tfo 14:00-15:00	D˜li T˜mb 2-108 (PC5)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	6	20	1	1	Ill˜s Zolt˜n	true
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	H˜tfo 14:00-15:00	D˜li T˜mb 2-709 (PC 9)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	7	20	1	1	Szab˜ D˜vid	true
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	H˜tfo 15:00-16:00	D˜li T˜mb 2-709 (PC 9)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	8	20	1	1	Szab˜ D˜vid	true
+Oper˜ci˜s rendszerek Ea+Gy	IP-18OPREG	P˜ntek 14:00-15:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	9	20	1	1		true
+Adatb˜zisok I. Gy	IP-18AB1G	Szerda 8:00-10:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	1	18	0	2	V˜r˜s P˜ter	true
+Adatb˜zisok I. Gy	IP-18AB1G	P˜ntek 10:00-12:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	10	18	0	2	Varga D˜niel	false
+Adatb˜zisok I. Gy	IP-18AB1G	H˜tfo 8:00-10:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	11	18	0	2	Vincell˜r Zolt˜n	false
+Adatb˜zisok I. Gy	IP-18AB1G	H˜tfo 10:00-12:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	12	18	0	2	Vincell˜r Zolt˜n	false
+Adatb˜zisok I. Gy	IP-18AB1G	H˜tfo 12:00-14:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	13	18	0	2	Vincell˜r Zolt˜n	false
+Adatb˜zisok I. Gy	IP-18AB1G	Kedd 14:00-16:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	14	18	0	2	Vincell˜r Zolt˜n	false
+Adatb˜zisok I. Gy	IP-18AB1G	Szerda 12:00-14:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	15	18	0	2	Vincell˜r Zolt˜n	false
+Adatb˜zisok I. Gy	IP-18AB1G	H˜tfo 14:00-16:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	16	18	0	2	Vincell˜r Zolt˜n	false
+Adatb˜zisok I. Gy	IP-18AB1G	P˜ntek 12:00-14:00	D˜li T˜mb 2-520 (Mesters˜ges Intelligencia labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	17	18	0	2	Hajas Csilla Dr.	false
+Adatb˜zisok I. Gy	IP-18AB1G	Cs˜t˜rt˜k 14:00-16:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	18	18	0	2	Varga D˜niel	false
+Adatb˜zisok I. Gy	IP-18AB1G	Cs˜t˜rt˜k 10:00-12:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	19	18	0	2	Nikovits Tibor Dr.	false
+Adatb˜zisok I. Gy	IP-18AB1G	Kedd 10:00-12:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	2	18	0	2	V˜r˜s P˜ter	true
+Adatb˜zisok I. Gy	IP-18AB1G	Cs˜t˜rt˜k 12:00-14:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	20	18	0	2	Nikovits Tibor Dr.	false
+Adatb˜zisok I. Gy	IP-18AB1G	H˜tfo 8:00-10:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	21	18	0	2	Kotrocz˜ Roland	false
+Adatb˜zisok I. Gy	IP-18AB1G	H˜tfo 10:00-12:00	D˜li T˜mb 2-108 (PC5)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	22	18	0	2	Kotrocz˜ Roland	false
+Adatb˜zisok I. Gy	IP-18AB1G	Szerda 10:00-12:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	3	18	0	2	V˜r˜s P˜ter	true
+Adatb˜zisok I. Gy	IP-18AB1G	Kedd 8:00-10:00	D˜li T˜mb 00-807 Adatb˜zis labor	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	4	18	0	2	V˜r˜s P˜ter	true
+Adatb˜zisok I. Gy	IP-18AB1G	H˜tfo 8:00-10:00	D˜li T˜mb 00-411 (PC 7)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	5	18	0	2	Hajas Csilla Dr.	true
+Adatb˜zisok I. Gy	IP-18AB1G	H˜tfo 10:00-12:00	D˜li T˜mb 00-411 (PC 7)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	6	18	0	2	Hajas Csilla Dr.	true
+Adatb˜zisok I. Gy	IP-18AB1G	H˜tfo 12:00-14:00	D˜li T˜mb 00-411 (PC 7)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	7	18	0	2	Hajas Csilla Dr.	true
+Adatb˜zisok I. Gy	IP-18AB1G	P˜ntek 10:00-12:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	8	18	0	2	Hajas Csilla Dr.	true
+Adatb˜zisok I. Gy	IP-18AB1G	P˜ntek 12:00-14:00	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	9	18	0	2	Varga D˜niel	true
+A sz˜mit˜selm˜let alapjai I. Gy	IP-18cSZ˜MEA1G	Kedd 14:00-16:00	D˜li T˜mb 0-411 (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	1	18	0	2	Tichler Kriszti˜n	true
+A sz˜mit˜selm˜let alapjai I. Gy	IP-18cSZ˜MEA1G	Cs˜t˜rt˜k 12:00-14:00	D˜li T˜mb 0-412 R˜nyi Alfr˜d terem (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	10	18	0	2	L˜z˜r Katalin Anna	false
+A sz˜mit˜selm˜let alapjai I. Gy	IP-18cSZ˜MEA1G	Szerda 10:00-12:00	D˜li T˜mb 00-115 (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	2	18	0	2	Tichler Kriszti˜n	true
+A sz˜mit˜selm˜let alapjai I. Gy	IP-18cSZ˜MEA1G	Cs˜t˜rt˜k 14:00-16:00	D˜li T˜mb 0-412 R˜nyi Alfr˜d terem (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	3	18	0	2	L˜z˜r Katalin Anna	false
+A sz˜mit˜selm˜let alapjai I. Gy	IP-18cSZ˜MEA1G	Kedd 14:00-16:00	D˜li T˜mb 0-412 R˜nyi Alfr˜d terem (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	4	18	0	2	L˜z˜r Katalin Anna	false
+A sz˜mit˜selm˜let alapjai I. Gy	IP-18cSZ˜MEA1G	H˜tfo 8:00-10:00	D˜li T˜mb 00-114 (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	5	18	0	2	M˜cskovity M˜t˜	false
+A sz˜mit˜selm˜let alapjai I. Gy	IP-18cSZ˜MEA1G	H˜tfo 10:00-12:00	D˜li T˜mb 00-112 (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	6	18	0	2	M˜cskovity M˜t˜	false
+A sz˜mit˜selm˜let alapjai I. Gy	IP-18cSZ˜MEA1G	H˜tfo 12:00-14:00	D˜li T˜mb 00-115 (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	7	18	0	2	M˜cskovity M˜t˜	false
+A sz˜mit˜selm˜let alapjai I. Gy	IP-18cSZ˜MEA1G	P˜ntek 10:00-12:00	D˜li T˜mb 0-409 (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	8	18	0	2	N˜gr˜di Zs˜fia	true
+A sz˜mit˜selm˜let alapjai I. Gy	IP-18cSZ˜MEA1G	Kedd 16:00-17:30	D˜li T˜mb 00-114 (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	9	18	0	2	L˜z˜r Katalin Anna	false
+Konkurens programoz˜s Ea+Gy	IP-18KPROGEG	H˜tfo 14:00-15:00	D˜li T˜mb 2-124 (Microsoft Labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	7	20	1	1	Kov˜cs Norbert Zsolt	
+Konkurens programoz˜s Ea+Gy	IP-18KPROGEG	H˜tfo 15:00-16:00	D˜li T˜mb 2-124 (Microsoft Labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	8	20	1	1	Kov˜cs Norbert Zsolt	
+Logika Gy	IP-18KVELG	Szerda 16:00-17:30	D˜li T˜mb 1-108 Koch Antal terem	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	10	20	0	2	Bense Viktor	
+Logika Gy	IP-18KVELG	Szerda 16:00-17:30	D˜li T˜mb 0-312 Gallai Tibor terem (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	11	20	0	2	Kocsis Barnab˜s P˜ter	
+Logika Gy	IP-18KVELG	P˜ntek 10:00-12:00	D˜li T˜mb 00-623	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	3	20	0	2	N˜meth Tam˜s Zolt˜n	
+Logika Gy	IP-18KVELG	P˜ntek 12:00-14:00	D˜li T˜mb 0-412 R˜nyi Alfr˜d terem (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	4	20	0	2	N˜meth Tam˜s Zolt˜n	
+Logika Gy	IP-18KVELG	Szerda 8:00-10:00	D˜li T˜mb 0-412 R˜nyi Alfr˜d terem (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	5	20	0	2	Tejfel M˜t˜	
+Logika Gy	IP-18KVELG	H˜tfo 8:00-10:00	D˜li T˜mb 0-412 R˜nyi Alfr˜d terem (Interakt˜v t˜bla)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	6	20	0	2	Szab˜ Tiham˜r	
+Logika Gy	IP-18KVELG	H˜tfo 10:00-12:00	D˜li T˜mb 7-102 Juh˜sz-Nagy P˜l terem	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	7	20	0	2	Szab˜ Tiham˜r	
+Logika Gy	IP-18KVELG	Cs˜t˜rt˜k 12:00-14:00	K˜mia ˜p˜let 160	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	8	20	0	2	Bir˜ Csaba	
+Logika Gy	IP-18KVELG	Cs˜t˜rt˜k 16:00-17:30	K˜mia ˜p˜let 160	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	9	20	0	2	Bir˜ Csaba	
+Szerveroldali webprogramoz˜s Ea+Gy	IP-18KVISZWPROGEG	Cs˜t˜rt˜k 14:00-16:00	D˜li T˜mb 2-202 (PC3)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	1	20	1	2	T˜ta D˜vid	
+Szerveroldali webprogramoz˜s Ea+Gy	IP-18KVISZWPROGEG	Kedd 16:00-17:30	D˜li T˜mb 2-202 (PC3)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	2	20	1	2	Turi Erik	
+Szerveroldali webprogramoz˜s Ea+Gy	IP-18KVISZWPROGEG	Kedd 17:45-19:15	D˜li T˜mb 2-202 (PC3)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	3	20	1	2	Turi Erik	
+Szerveroldali webprogramoz˜s Ea+Gy	IP-18KVISZWPROGEG	Kedd 10:00-12:00	˜szaki T˜mb 7.16 (PC 12)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	4	20	1	2	M˜ri˜s Zsigmond	
+Kliensoldali webprogramoz˜s Ea+Gy	IP-18KVIKWPROGEG	H˜tfo 12:00-14:00	D˜li T˜mb 2-520 (Mesters˜ges Intelligencia labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	1	20	1	2	Horv˜th Gy˜z˜	
+Kliensoldali webprogramoz˜s Ea+Gy	IP-18KVIKWPROGEG	Kedd 12:00-14:00	˜szaki T˜mb 7.15 (PC 11)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	2	20	1	2	Bende Imre	
+Kliensoldali webprogramoz˜s Ea+Gy	IP-18KVIKWPROGEG	Cs˜t˜rt˜k 14:00-16:00	˜szaki T˜mb 7.16 (PC 12)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	3	20	1	2	Bende Imre	
+Kliensoldali webprogramoz˜s Ea+Gy	IP-18KVIKWPROGEG	Cs˜t˜rt˜k 16:00-17:30	D˜li T˜mb 00-503 (PC8)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	4	20	1	2	T˜ta D˜vid	
+Kliensoldali webprogramoz˜s Ea+Gy	IP-18KVIKWPROGEG	Kedd 8:00-10:00	D˜li T˜mb 2-219 (Grafika labor)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	5	20	1	2	N˜meth Tam˜s Zolt˜n	
+Kliensoldali webprogramoz˜s Ea+Gy	IP-18KVIKWPROGEG	Kedd 10:00-12:00	D˜li T˜mb 2-218 (komp. alg.)	2,3,4,5,6,7,8,9,10,11,12,13,14,15		gyakorlat	6	20	1	2	N˜meth Tam˜s Zolt˜n	
